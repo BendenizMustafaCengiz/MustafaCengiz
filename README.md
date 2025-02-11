@@ -1,3 +1,3 @@
-# MustafaCengiz m
-readme
+# MustafaCengiz
+readme\n
 Im just trying to learn .
